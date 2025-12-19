@@ -1,8 +1,8 @@
-# 👋 Hello, I'm xHyperPacket
+# 👋 Hello, I'm ! Invalid Pointer
 
 ## 🔐 Security Research & Engineering
 
-**Computer Science Engineering Student** passionate about offensive and defensive cybersecurity research. I specialize in advanced threat simulation, evasion techniques, and low-level system security.
+**Computer Science Engineering Student (Year 2)** passionate about offensive and defensive cybersecurity research. I specialize in advanced threat simulation, evasion techniques, and system security.
 
 ### 🎯 Research Focus Areas
 
@@ -11,7 +11,7 @@
 🛡️ EDR/AV Evasion & Sandbox Detection
 🔧 Kernel-Level Security Research (Ring 0)
 💻 Malware Analysis & Reverse Engineering
-🎵 Novel C2 Communication Methods
+⚡ Hypervisor (Ring -1) & SMM (Ring -2)
 ⚡ Exploit Development & Vulnerability Research
 ```
 
@@ -37,10 +37,10 @@
 - **Memory Manipulation**: Two-phased permissions (RW → X), in-memory execution
 - **Signature Evasion**: Polymorphic code generation, binary stripping
 
-### 🎵 Novel C2 Communication
+### ⚡ Exploit Development & Vulnerability Research
 - **Audio-based Payloads**: .wav file modulation for covert storage
-- **YouTube Audio C2**: Innovative command channel via audio signatures
-- **Steganographic Methods**: Image and audio-based data exfiltration
+- **Hypervisor, bare-metal evasion of Kernel Level Anti-Cheats
+- **System Management Module (Ring -2) Motherboard Firmware Customization
 
 ### ⚡ Kernel Security Research
 - **BYOVD Techniques**: Bring Your Own Vulnerable Driver exploitation
@@ -90,9 +90,9 @@ class SecurityResearcher:
 
 ## 📊 GitHub Stats
 
-![xHyperPacket's GitHub stats](https://github-readme-stats.vercel.app/api?username=xHyperPacket&show_icons=true&theme=dark&hide_border=true)
+![INvalid-Pointer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Invalid-ptr&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xHyperPacket&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Invalid-ptr&layout=compact&theme=dark&hide_border=true)
 
 ## 🤝 Collaboration & Contact
 
@@ -103,8 +103,7 @@ I'm always interested in collaborating on:
 - 🔍 Vulnerability research initiatives
 
 ### 📬 Let's Connect!
-- 📧 Telegram: @markusah005
-- 📝 Discord: @spinnermcduck
+- 📝 Discord: @invalidptr
 
 ---
 
@@ -112,6 +111,6 @@ I'm always interested in collaborating on:
 
 **"In security research, understanding the attack is the first step to building better defenses"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=xHyperPacket&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Invalid-ptr&color=blueviolet&style=for-the-badge)
 
 </div>
